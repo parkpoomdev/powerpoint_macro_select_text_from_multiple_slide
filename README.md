@@ -8,15 +8,6 @@ This is useful when exporting content for documentation, AI processing, script e
 
 ## ✨ Features
 
-- Copy text from **one or multiple selected slides**
-- Reads text from **all shapes** containing text frames
-- Outputs **plain Unicode text** (no formatting)
-- Works in **PowerPoint 32-bit and 64-bit**
-- Uses **Windows API clipboard functions** (no MSForms dependency)
-- VSCode-friendly (all comments in English, UTF-8 safe)
-
----
-
 ## 📌 Installation
 
 1. Open PowerPoint  
@@ -26,6 +17,53 @@ This is useful when exporting content for documentation, AI processing, script e
 5. Save your presentation as **.pptm** (macro-enabled)
 
 ---
+
+<img width="1207" height="623" alt="image" src="https://github.com/user-attachments/assets/57be7eed-e2ea-454f-8c75-4fc83ee1cbdb" />
+
+<img width="392" height="152" alt="image" src="https://github.com/user-attachments/assets/5ab10e8b-e6b9-42cf-968a-e381a4033f3f" />
+
+
+===== Slide 25 =====
+
+Finibus Bonorum
+Sed ut perspiciatis unde omnis iste natus.
+Nemo enim ipsam voluptatem quia voluptas.
+Neque porro quisquam est, qui dolorem.
+Quis autem vel eum iure reprehenderit.
+At vero eos et accusamus et iusto odio.
+Et harum quidem rerum facilis est et.
+
+===== Slide 26 =====
+
+Lorem Ipsum Dolor
+Lorem ipsum dolor sit amet, consectetur.
+Sed do eiusmod tempor incididunt ut labore.
+Ut enim ad minim veniam, quis nostrud.
+Duis aute irure dolor in reprehenderit.
+Excepteur sint occaecat cupidatat non.
+Sunt in culpa qui officia deserunt mollit.
+
+===== Slide 27 =====
+
+Why do we use it?
+t represents a neutral visual placeholder.
+Prevents distraction from meaningful content.
+Showcases the font weight and kerning.
+Simulates realistic paragraph distribution.
+Various versions have evolved over the years.
+Essential tool for designers and developers.
+
+---
+
+- Copy text from **one or multiple selected slides**
+- Reads text from **all shapes** containing text frames
+- Outputs **plain Unicode text** (no formatting)
+- Works in **PowerPoint 32-bit and 64-bit**
+- Uses **Windows API clipboard functions** (no MSForms dependency)
+- VSCode-friendly (all comments in English, UTF-8 safe)
+
+---
+
 
 ## 🚀 How to Use
 
